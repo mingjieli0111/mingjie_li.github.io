@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mingjie Li / 李明杰"
 title_separator          : "-"
-name                     : &name "Mingjie li"
+name                     : &name "Mingjie Li"
 description              : &description "personal description"
 url                      : "https://mingjie_li.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
